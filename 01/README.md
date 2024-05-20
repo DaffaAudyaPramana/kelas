@@ -12,11 +12,15 @@ Teori Menjelaskan :
 
 Kerjakan :
 * Pahami bagaimana instalasi python
+![image](https://github.com/mymyid/kelas/assets/93989651/58efd6c5-ba8b-4619-b41e-012574617651)
 * Pahami bagaimana menggunakan python di cmd atau terminal
+![image](https://github.com/mymyid/kelas/assets/93989651/6d7aa557-61ef-495e-82ac-dd1bddc2aa08)
 * Pahami kegunaan pip
+PIP merupakan manajemen paket di Python. Tugasnya si PIP ini untuk menginstal, menghapus, upgrade paket Python, dll.
 * Pahami kegunaan file requirements.txt di python
+File requirements.txt adalah file teks berisi daftar package Python beserta versinya yang digunakan untuk menjalankan sebuah proyek atau aplikasi Python.
 * Pahami sintaks dasar python
-
+![image](https://github.com/mymyid/kelas/assets/93989651/c6b61a06-5132-4950-8150-af775d47dd7e)
 ## Dataframe Pandas untuk data preparasi
 
 [Pengenalan Dataframe Pandas](https://www.youtube.com/watch?v=AVdkuWgr-ks&pp=ygUOYXdhbmdnYSBwYW5kYXM%3D)\
