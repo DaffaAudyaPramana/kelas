@@ -2,6 +2,7 @@
 
 Teori Menjelaskan :
 * Definisi Kecerdasan Buatan
+Kecerdasan Buatan adalah Cepat dan Tepat satuannya adalah milisecond dan akurasi dalam bentuk presentase
 * Training
 * Accuracy
 * Data Preparasi
@@ -12,11 +13,15 @@ Teori Menjelaskan :
 
 Kerjakan :
 * Pahami bagaimana instalasi python
+![image](https://github.com/mymyid/kelas/assets/93989651/bb665923-0d60-4f42-ae2f-2202f6ef8ad7)
 * Pahami bagaimana menggunakan python di cmd atau terminal
+![image](https://github.com/mymyid/kelas/assets/93989651/767c8a39-642d-4a95-990f-fc7db4be2401)
 * Pahami kegunaan pip
+suatu kode yang dijalankan, dimana tugasnya salah satunya bisa untuk menginstall, menghapus, mengupgrade
 * Pahami kegunaan file requirements.txt di python
+file teks berisi daftar package Python beserta versinya yang digunakan untuk menjalankan sebuah proyek atau aplikasi Python.
 * Pahami sintaks dasar python
-
+![image](https://github.com/mymyid/kelas/assets/93989651/d5caca83-db1c-4360-9ebd-3036bc710b81)
 ## Dataframe Pandas untuk data preparasi
 
 [Pengenalan Dataframe Pandas](https://www.youtube.com/watch?v=AVdkuWgr-ks&pp=ygUOYXdhbmdnYSBwYW5kYXM%3D)\
@@ -26,6 +31,7 @@ Kerjakan :
 
 Kerjakan:
 * Cara instalasi tensorflow
+![image](https://github.com/mymyid/kelas/assets/93989651/5eb34fee-b7d4-4b5c-9086-8f40fea5b3b1)
 * Contoh kode penggunaan tensorflow 
 
 ## Kerjakan
